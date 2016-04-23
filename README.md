@@ -39,8 +39,8 @@ Lightweight & independent cascading grid layout library. Inspired by and a light
 ## Installation
 
 ```html
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.2.4/bricklayer.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.2.4/bricklayer.min.js"></script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.3.2/bricklayer.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.3.2/bricklayer.min.js"></script>
 ```
 
 If you are using modular JavaScript, you can use **NPM** or **Bower**
@@ -163,11 +163,11 @@ bricklayer.on('breakpoint', function (e) {
 ### Built-in jQuery Support
 
 ```html
-<link rel="stylesheet" href="//npmcdn.com/bricklayer/dist/bricklayer.min.css">
-<script src="//npmcdn.com/bricklayer/dist/bricklayer.min.js"></script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.3.2/bricklayer.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.3.2/bricklayer.min.js"></script>
 
 <!-- You should also add jquery.bricklayer.js -->
-<script src="//npmcdn.com/bricklayer/dist/jquery.bricklayer.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/bricklayer/0.3.2/jquery.bricklayer.min.js"></script>
 ```
 
 Then you should enable plugin for your bricklayer elements.
